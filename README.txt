@@ -1,3 +1,3 @@
 EXERCICIO 11-09
 
-Ao vivo: https://www.youtube.com/watch?v=Hx5lqfGiIN0
+Código em vídeo: https://www.youtube.com/watch?v=Hx5lqfGiIN0
