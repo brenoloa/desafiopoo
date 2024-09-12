@@ -25,6 +25,10 @@ public class Venda {
             System.out.println("Vendido para " + this.cliente.getNome());
             this.produto.setDisponivel(false);
         }
+        else {
+            System.out.println("Produto ESGOTADO! não é possivel vender.");
+            
+        }
     }
 
 }

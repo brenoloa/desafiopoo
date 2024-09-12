@@ -6,8 +6,9 @@ public class App {
 
        Venda v1 = new Venda(p1, c1);
 
-       //v1.VenderProduto();
+       v1.VenderProduto();
+       v1.VenderProduto();
        p1.status();
-       System.out.println(p1.getDisponivel());
+       //System.out.println(p1.getDisponivel());
     }
 }
